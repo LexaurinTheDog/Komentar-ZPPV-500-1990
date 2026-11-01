@@ -437,6 +437,11 @@ Ustanovení upravuje **platební stránku dražby**, tedy dražební jistotu a p
 
 **Odst. 4.** Poplatky za oprávnění zúčastnit se dražby poukazuje pobočka **krajskému úřadu nebo Magistrátu hlavního města Prahy**, v jehož správním obvodu se vydražená jednotka nachází. Toto znění je výsledkem změny provedené zákonem č. 320/2002 Sb. v souvislosti s ukončením činnosti okresních úřadů. Ten nahradil slova „okresnímu úřadu“ slovy „krajskému úřadu“, „magistrátnímu úřadu“ slovem „Magistrátu“ a „územním“ slovem „správním“. U poplatků z dražeb konaných v době působnosti okresních úřadů je proto třeba vycházet z tehdejšího znění.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 2077/2000](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B238283B7E41F27BC1257A4E00669AB2?openDocument) — 20. 9. 2001, kat. A
+  > „Pohledávka státu na vyplacení dražební jistoty, která byla složena u banky podle zákona č. 427/1990 Sb. ve znění pozdějších předpisů, se promlčuje ve tříleté promlčecí době (§ 101 obč. zák.)"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Vydražitel nezaplatil kupní cenu ve lhůtě 30 dnů. Jeho jistota ve výši 15 % vyvolávací ceny byla převedena na zvláštní účet ministerstva. Dnes se domáhá vrácení jistoty s tím, že jednotka byla v opakované dražbě prodána za vyšší cenu a státu nevznikla škoda.
