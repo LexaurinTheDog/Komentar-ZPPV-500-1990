@@ -442,6 +442,8 @@ Ustanovení upravuje **platební stránku dražby**, tedy dražební jistotu a p
 - *NS* [29 Cdo 2077/2000](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B238283B7E41F27BC1257A4E00669AB2?openDocument) — 20. 9. 2001, kat. A
   > „Pohledávka státu na vyplacení dražební jistoty, která byla složena u banky podle zákona č. 427/1990 Sb. ve znění pozdějších předpisů, se promlčuje ve tříleté promlčecí době (§ 101 obč. zák.)"
 
+**K místní judikaturní kartě NS 29 Cdo 2077/2000** ([judikatura/NS-29-Cdo-2077-2000.md](judikatura/NS-29-Cdo-2077-2000.md)): podle její právní věty se pohledávka státu na vyplacení dražební jistoty složené u banky podle zákona č. 427/1990 Sb. promlčuje ve tříleté promlčecí době podle § 101 tehdejšího občanského zákoníku č. 40/1964 Sb. Karta doplňuje výklad odst. 1 a 2 o majetkovou stránku jistoty: nárok státu vůči peněžnímu ústavu na vydání jistoty vydražitele není nepromlčitelný. Vzhledem k ukončení malé privatizace a k tomu, že rozhodnutí vychází z dřívějšího občanského zákoníku, má dnes převážně historickou hodnotu.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Vydražitel nezaplatil kupní cenu ve lhůtě 30 dnů. Jeho jistota ve výši 15 % vyvolávací ceny byla převedena na zvláštní účet ministerstva. Dnes se domáhá vrácení jistoty s tím, že jednotka byla v opakované dražbě prodána za vyšší cenu a státu nevznikla škoda.

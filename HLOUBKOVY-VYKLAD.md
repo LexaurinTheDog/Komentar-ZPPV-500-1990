@@ -13,7 +13,7 @@ Každá z třinácti vrstev odděluje místní zjištění, autorský test a doh
 - **Syntéza:** autorské propojení textu, systematiky a místních pramenů.
 - **Otevřená otázka:** místní korpus odpověď nedává nebo připouští více řešení.
 
-Místní korpus pro tuto mapu tvoří **3 kapitoly** (úvod a dvě paragrafové kapitoly), **15 samostatně nadepsaných platných ustanovení** (§ 1, 2, 3, 5, 6, 7, 8, 10, 11, 12, 13, 15, 16a, 16b a 17; zrušené § 4, 9, 14 a 16 se nekomentují), **38 modalitních příkladů**, **8 zásad** a **0 místních karet rozhodnutí**. Místní důvodová zpráva v repozitáři není. Rejstřík ustanovení je dostupný v [INDEX.md](INDEX.md).
+Místní korpus pro tuto mapu tvoří **3 kapitoly** (úvod a dvě paragrafové kapitoly), **15 samostatně nadepsaných platných ustanovení** (§ 1, 2, 3, 5, 6, 7, 8, 10, 11, 12, 13, 15, 16a, 16b a 17; zrušené § 4, 9, 14 a 16 se nekomentují), **38 modalitních příkladů**, **8 zásad** a **1 místní kartu rozhodnutí** ([NS 29 Cdo 2077/2000](judikatura/NS-29-Cdo-2077-2000.md) u § 11, převážně historické hodnoty). Místní důvodová zpráva v repozitáři není. Rejstřík ustanovení je dostupný v [INDEX.md](INDEX.md).
 
 Specifikem předpisu je jeho **kompetenční a historická povaha**: zákon č. 500/1990 Sb. sám nestanoví, co se privatizuje a jak dražba probíhá; to upravuje federální zákon č. 427/1990 Sb. Hloubkový výklad proto u každé vrstvy rozlišuje, zda otázku řeší komentovaný zákon, nebo federální zákon, na který komentář místně odkazuje.
 
@@ -268,9 +268,9 @@ Reprezentativní normativní vazby porušení a následku:
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Repozitář zatím neobsahuje složku `judikatura/` ani žádnou místní kartu rozhodnutí; soubor zásad odkazuje na **0 místních karet s použitelnou citací**. Kapitoly obsahují **0 rozpoznaných citací nebo odkazů na rozhodovací praxi** (spisová značka, soud, právní věta). Místní judikatura bude do složky `judikatura/` doplněna strojově později.
-Místní korpus neposkytuje rozpoznanou kartu ani citaci rozhodnutí; judikatorní závěr se proto nesmí domýšlet. Jde o **výslovně evidovanou mezeru**, nikoli o tvrzení, že k zákonu č. 500/1990 Sb. nebo k navazujícímu federálnímu zákonu rozhodovací praxe neexistuje.
-Otázky, u nichž bude po doplnění judikatury nutné ověřit rozhodovací linii, protože je komentář místně označuje jako výkladové:
+Složka `judikatura/` obsahuje **1 místní kartu rozhodnutí**: [NS 29 Cdo 2077/2000](judikatura/NS-29-Cdo-2077-2000.md) ze dne 20. 9. 2001, citovanou u § 11 v [kapitole 1](01-organy-komise-drazba.md). Podle její právní věty se pohledávka státu na vyplacení dražební jistoty složené u banky podle zákona č. 427/1990 Sb. promlčuje ve tříleté promlčecí době podle § 101 obč. zák. (zákon č. 40/1964 Sb.). Kapitola 1 kartu vyhodnocuje jako doplněk výkladu o jistotě a uvádí: „Vzhledem k ukončení malé privatizace a k tomu, že rozhodnutí vychází z dřívějšího občanského zákoníku, má dnes převážně historickou hodnotu.“
+Ostatní komentovaná ustanovení místní kartu rozhodnutí nemají; judikatorní závěr k nim se proto nesmí domýšlet. Jde o **výslovně evidovanou mezeru** místního korpusu.
+Výkladové otázky, k nimž místní korpus kartu rozhodnutí neobsahuje, ačkoli je komentář místně označuje jako výkladové:
 - následek porušení neslučitelnosti podle § 2 odst. 4,
 - vliv vad usnesení komise a vad projednání nebo zveřejnění na platnost příklepu (§ 3, 6, 8),
 - soudní přezkoumatelnost potvrzení seznamu (§ 7 odst. 2),
@@ -284,7 +284,7 @@ Otázky, u nichž bude po doplnění judikatury nutné ověřit rozhodovací lin
 - Nevytvářejte obecnou právní větu z úvahy závislé na zvláštních skutkových okolnostech (např. konkrétní restituční nárok, konkrétní obsah seznamu).
 - Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku a uveďte míru její stability.
 
-**Místní opora.** [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady](ZASADY.md); složka `judikatura/` (bude doplněna strojově)
+**Místní opora.** [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady](ZASADY.md); [judikatura/NS-29-Cdo-2077-2000.md](judikatura/NS-29-Cdo-2077-2000.md); [§ 11](01-organy-komise-drazba.md)
 
 ## 10. Konkurenční výklady, protiargumenty a hraniční případy
 
@@ -315,7 +315,7 @@ Reprezentativní místní formulace:
 
 **Hloubkový test.**
 - Formulujte nejsilnější verzi každého rozumně obhajitelného výkladu, nikoli jeho oslabenou karikaturu (např. pro neplatnost podle § 2 odst. 4 účel rovnosti a transparentnosti, proti ní uzavřený výčet důvodů zrušení příklepu).
-- U každé varianty uveďte textový, systematický, historický, účelový a — po doplnění — místní judikatorní argument.
+- U každé varianty uveďte textový, systematický, historický, účelový a — je-li k ustanovení místní karta rozhodnutí (dosud jen u § 11) — místní judikatorní argument.
 - Porovnejte praktické následky variant (jistota vlastnických poměrů po desítkách let × ochrana dotčených osob) a vysvětlete, který argument převáží a za jakých předpokladů.
 - Není-li spor místními prameny řešitelný, zachovejte varianty a označte nejistotu místo předstírání ustáleného závěru.
 
@@ -376,7 +376,7 @@ Další místní aplikační závěry:
 **Zjištění z místního komentáře.**
 Stav poznání je posuzován nad **3 kapitolami** (úvod a dvě paragrafové kapitoly). Následující matice je redakční diagnostika, nikoli automatické věcné hodnocení správnosti komentáře.
 Předpisové kontrolní mezery zjištěné z místní struktury:
-- místní složka `judikatura/` zatím neexistuje a soubor zásad neodkazuje na žádnou místní kartu s citovatelnou tezí (doplní se strojově),
+- místní složka `judikatura/` obsahuje jedinou kartu, [NS 29 Cdo 2077/2000](judikatura/NS-29-Cdo-2077-2000.md) u § 11, s převážně historickou hodnotou; k ostatním ustanovením místní karta rozhodnutí není,
 - v repozitáři není místní důvodová zpráva,
 - znění po 21. 12. 2015 nelze z místních zdrojů ověřit, zejména u § 15,
 - ústavní a evropské souvislosti nejsou samostatně rozebrány.
@@ -402,12 +402,12 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 | Kapitola | Proces | Důkazy | Následky | Judikatura | Sporné výklady | Vazby | Aplikace | Stav |
 |---|---|---|---|---|---|---|---|---|
 | [Úvod — Komentář k zákonu ČNR č. 500/1990 Sb.](00-uvod.md) | ano | nenalezeno | ano | nenalezeno | ano | ano | nenalezeno | ano |
-| [Kapitola 1 — Ministerstvo, komise, seznamy provozních jednotek a veřejná dražba (§ 1–11)](01-organy-komise-drazba.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
+| [Kapitola 1 — Ministerstvo, komise, seznamy provozních jednotek a veřejná dražba (§ 1–11)](01-organy-komise-drazba.md) | ano | ano | ano | ano (§ 11) | ano | ano | ano | ano |
 | [Kapitola 2 — Vydražitel, neslučitelnost, čistý výnos, správní činnosti a závěrečná ustanovení (§ 12–17)](02-vydrazitel-vynos-zaverecna.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
 
 ### Kontrolní priority podle místní struktury
 
-- **Judikatura:** textový signál nebyl nalezen v 3 z 3 kapitol; po strojovém doplnění složky `judikatura/` je nutné projít výkladové otázky uvedené ve vrstvě 9.
+- **Judikatura:** textový signál je jen v kapitole 1 (§ 11, karta [NS 29 Cdo 2077/2000](judikatura/NS-29-Cdo-2077-2000.md)); výkladové otázky uvedené ve vrstvě 9 místní kartu rozhodnutí nemají.
 - **Důkazy a aplikace:** v úvodu nenalezeno (úvod je přehledový; aplikační bloky jsou v kapitolách 1 a 2).
 - **Aktuální znění:** ověřit změny po 21. 12. 2015, zejména § 15 odst. 2, a platnost prováděcích předpisů podle § 15 odst. 3.
 
@@ -442,7 +442,7 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 1. Text zákona, závěr soudu, převzatou doktrínu a vlastní syntézu vždy oddělte.
 2. Každé významné tvrzení musí být dohledatelné v místním prameni nebo označené jako otevřená otázka.
 3. Míru jistoty vyjádřete jako ustálený závěr, převažující výklad, spornou otázku nebo autorský návrh.
-4. Judikatorní závěr nepřenášejte mimo rozhodné znění, skutkový základ a procesní situaci; dokud složka `judikatura/` neobsahuje místní karty, judikatorní tvrzení nepište.
+4. Judikatorní závěr nepřenášejte mimo rozhodné znění, skutkový základ a procesní situaci; judikatorní tvrzení opírejte jen o místní kartu — dosud jedinou, [NS 29 Cdo 2077/2000](judikatura/NS-29-Cdo-2077-2000.md) u § 11.
 5. Neuvádějte pouze výsledek; zpřístupněte argumentační cestu tak, aby ji bylo možné přezkoumat.
 
 ## Kontrola před publikací

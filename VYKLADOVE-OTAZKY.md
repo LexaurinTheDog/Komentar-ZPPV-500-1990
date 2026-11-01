@@ -2,7 +2,7 @@
 
 <!-- LOCAL-VYKLADOVE-OTAZKY-GENERATED -->
 
-> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k zákonu České národní rady č. 500/1990 Sb., o působnosti orgánů České republiky ve věcech převodů vlastnictví státu k některým věcem na jiné právnické nebo fyzické osoby. Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva ani místní karty rozhodnutí v repozitáři zatím nejsou. Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
+> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k zákonu České národní rady č. 500/1990 Sb., o působnosti orgánů České republiky ve věcech převodů vlastnictví státu k některým věcem na jiné právnické nebo fyzické osoby. Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva v repozitáři není; místní karta rozhodnutí je jediná — [NS 29 Cdo 2077/2000](judikatura/NS-29-Cdo-2077-2000.md) u § 11. Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
 
 ## Jak dokument používat
 
@@ -100,7 +100,7 @@ Normativní text a výklad upozorňují například na:
 
 **Jak ji řešit.** Pro každý znak normy vytvořte řádek: rozhodná skutečnost, kdo ji tvrdí, dostupný důkaz (protokol, seznam, potvrzení, doklad o zaplacení, vyvěšovací doložka, zápis z jednání komise, předávací protokol spisů), kdo důkaz opatřuje, míra přesvědčení a následek neprokázání. Právní argument nenahrazuje skutkové zjištění a zákonnou domněnku nelze dovodit jen z obtížného dokazování po desítkách let.
 
-**Místní opora.** [§ 10](01-organy-komise-drazba.md); [§ 12](02-vydrazitel-vynos-zaverecna.md); [§ 16a](02-vydrazitel-vynos-zaverecna.md); [Rozhodné skutečnosti, dokazování a riziko nejistoty](HLOUBKOVY-VYKLAD.md); [místní modality](PRAVNI-MODALITY.md); místní judikatura — složka `judikatura/` zatím chybí (doplní se strojově)
+**Místní opora.** [§ 10](01-organy-komise-drazba.md); [§ 12](02-vydrazitel-vynos-zaverecna.md); [§ 16a](02-vydrazitel-vynos-zaverecna.md); [Rozhodné skutečnosti, dokazování a riziko nejistoty](HLOUBKOVY-VYKLAD.md); [místní modality](PRAVNI-MODALITY.md); místní judikatura — k § 10, § 12 a § 16a místní karta rozhodnutí není (jediná místní karta [NS 29 Cdo 2077/2000](judikatura/NS-29-Cdo-2077-2000.md) se týká § 11)
 
 ## 7. Jaké právní následky, sankce a prostředky ochrany navazují?
 
@@ -139,12 +139,12 @@ Místně zachycený příklad hranice zásady účelového vázání:
 ## 9. Co skutečně plyne z místní judikatury a kde jsou její hranice?
 
 **Odpověď pro tento komentář.**
-Repozitář zatím neobsahuje složku `judikatura/`; místně je tedy **0** karet rozhodnutí a v systematickém souboru zásad je odkazováno na **0** různých místních karet s použitelnou citací. Kapitoly neobsahují žádnou spisovou značku ani právní větu soudu. Složka `judikatura/` bude doplněna strojově později.
-Místní korpus neposkytuje citovatelnou judikatorní tezi; judikatorní odpověď se proto nesmí domýšlet. Jde o evidovanou mezeru, nikoli o tvrzení, že rozhodovací praxe neexistuje.
+Složka `judikatura/` obsahuje **1** místní kartu rozhodnutí: [NS 29 Cdo 2077/2000](judikatura/NS-29-Cdo-2077-2000.md) ze dne 20. 9. 2001, citovanou u § 11 v [kapitole 1](01-organy-komise-drazba.md). Podle její právní věty se pohledávka státu na vyplacení dražební jistoty složené u banky podle zákona č. 427/1990 Sb. promlčuje ve tříleté promlčecí době podle § 101 obč. zák. (zákon č. 40/1964 Sb.). Kapitola 1 k ní uvádí: „Vzhledem k ukončení malé privatizace a k tomu, že rozhodnutí vychází z dřívějšího občanského zákoníku, má dnes převážně historickou hodnotu.“
+Ostatní komentovaná ustanovení místní kartu rozhodnutí nemají; judikatorní odpověď k nim se proto nesmí domýšlet. Jde o evidovanou mezeru místního korpusu.
 
-**Jak ji řešit.** Po doplnění karet u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění komentovaného nebo federálního zákona a stejný právní problém. Přednostně prověřte výkladové otázky označené v kapitolách (§ 2 odst. 4, § 3, § 7 odst. 2, § 8, § 12, § 15 odst. 2). Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo.
+**Jak ji řešit.** U místní karty oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění komentovaného nebo federálního zákona a stejný právní problém. Přednostně prověřte výkladové otázky označené v kapitolách (§ 2 odst. 4, § 3, § 7 odst. 2, § 8, § 12, § 15 odst. 2). Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo.
 
-**Místní opora.** [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md); [místní zásady a citace](ZASADY.md); složka `judikatura/` (bude doplněna strojově)
+**Místní opora.** [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md); [místní zásady a citace](ZASADY.md); [judikatura/NS-29-Cdo-2077-2000.md](judikatura/NS-29-Cdo-2077-2000.md); [§ 11](01-organy-komise-drazba.md)
 
 ## 10. Jaké systematické, kolizní a časové vazby mohou změnit odpověď?
 
@@ -179,7 +179,7 @@ Reprezentativní místní formulace:
 - [§ 7 — přezkum](01-organy-komise-drazba.md): „Pro druhou možnost svědčí, že ministerstvo zde vystupuje jako orgán disponující majetkem státu a vymezuje předmět nabídky.“
 - [§ 15 — protiargumenty](02-vydrazitel-vynos-zaverecna.md): „písm. a) a d) jsou formulovány ve prospěch určitého okruhu pohledávek a smysl úpravy byl ochránit věřitele privatizovaných podniků; otázka zůstává výkladově otevřená.“
 
-**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický, účelový a — po doplnění složky `judikatura/` — místní judikatorní argument, praktický následek a důvod, proč jeden převáží. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
+**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický, účelový a — je-li k ustanovení místní karta rozhodnutí (dosud jen u § 11) — místní judikatorní argument, praktický následek a důvod, proč jeden převáží. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
 
 **Místní opora.** [kapitola 1](01-organy-komise-drazba.md); [kapitola 2](02-vydrazitel-vynos-zaverecna.md); [místní zásady](ZASADY.md)
 
@@ -197,9 +197,9 @@ Aplikační vrstvu lze ověřit zejména v: [01-organy-komise-drazba](01-organy-
 ## 13. Co komentář dosud neví a kdy se musí aktualizovat?
 
 **Odpověď pro tento komentář.**
-Současný místní korpus tvoří **3** kapitoly a **0** karet rozhodnutí, doplněné samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
+Současný místní korpus tvoří **3** kapitoly a **1** kartu rozhodnutí ([NS 29 Cdo 2077/2000](judikatura/NS-29-Cdo-2077-2000.md), § 11), doplněné samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
 Kontrolní mezery zjištěné podle místní struktury:
-- místní judikatura neposkytuje citovatelnou tezi (složka `judikatura/` se doplní strojově),
+- místní judikatura je zastoupena jedinou kartou u § 11 ([NS 29 Cdo 2077/2000](judikatura/NS-29-Cdo-2077-2000.md)) s převážně historickou hodnotou; k ostatním ustanovením místní karta rozhodnutí není,
 - chybí místní důvodová zpráva,
 - znění po 21. 12. 2015 (zejména § 15) nelze místně ověřit,
 - obsah výnosu o odměnách, přesný den vyhlášení zákona a platnost prováděcího předpisu podle § 15 odst. 3 nejsou v místních zdrojích.
